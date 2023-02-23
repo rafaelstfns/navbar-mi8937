@@ -1,0 +1,7 @@
+id=navbarmi8937
+name=navbar-mi8937
+version=v1.0
+versionCode=100
+author=@rafaelstfns on telegram
+description=disable HW navbar and enable on-screen navbar for mi8937
+updateJson=https://raw.githubusercontent.com/rafaelstfns/navbar-mi8937/main/update.json
