@@ -25,7 +25,7 @@
 SKIPMOUNT=false
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -122,11 +122,7 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "███╗░░░███╗██╗░█████╗░░█████╗░██████╗░███████╗"
-  ui_print "████╗░████║██║██╔══██╗██╔══██╗╚════██╗╚════██║"
-  ui_print "██╔████╔██║██║╚█████╔╝╚██████║░█████╔╝░░░░██╔╝"
-  ui_print "██║╚██╔╝██║██║██╔══██╗░╚═══██║░╚═══██╗░░░██╔╝░"
-  ui-print "██║░╚═╝░██║██║╚█████╔╝░█████╔╝██████╔╝░░██╔╝░░"
+  ui_print "navbar-mi8937"
   ui-print "disable HW navbar and enable on-screen navbar"
 }
 
